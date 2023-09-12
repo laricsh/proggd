@@ -43,4 +43,4 @@ npm start
 The input file format for both dataset and schema are available in the sHINER Manual.
 
 > [!WARNING]
-> This project components sHINER and GGDMiner are in constant changes and we will be updating these instruction periodically. We will soon provide a docker for an easier installation.
+> This project components sHINER and GGDMiner are in constant changes, check for their specific instructions in their respective repositories. We will soon provide a docker for an easier installation.
